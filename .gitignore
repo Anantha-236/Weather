@@ -1,0 +1,24 @@
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+/target/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
